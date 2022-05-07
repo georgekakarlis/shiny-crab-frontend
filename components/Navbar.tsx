@@ -38,7 +38,7 @@ const Navbar = () => {
             (showNav ? "" : "hidden")
           }
         >
-            <SearchBar />
+            
           <Link href="/about">
             <a className="lg:inline-flex lg:w-auto px-3 py-2 rounded hover:bg-blue-800 hover:bg-gray-900">
               About
